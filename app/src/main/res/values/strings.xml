@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">sunflower</string>
+    <string name="title_activity_login">向阳花</string>
+    <string name="login">登录</string>
+    <string name="title_chat">消息</string>
+    <string name="title_program">应用</string>
+    <string name="title_cloudMap">云图</string>
+    <string name="title_cloudBook">云书</string>
+    <string name="title_mine">我的</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_chat"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:title="@string/title_chat" />
+
+    <item
+        android:id="@+id/navigation_program"
+        android:icon="@drawable/ic_baseline_apps_24"
+        android:title="@string/title_program" />
+
+    <item
+        android:id="@+id/navigation_cloudMap"
+        android:icon="@drawable/ic_baseline_map_24"
+        android:title="@string/title_cloudMap" />
+    <item
+        android:id="@+id/navigation_cloudBook"
+        android:icon="@drawable/ic_baseline_menu_book_24"
+        android:title="@string/title_cloudBook" />
+    <item
+        android:id="@+id/navigation_mine"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="@string/title_mine" />
+
+</menu>
